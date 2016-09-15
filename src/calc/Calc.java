@@ -18,6 +18,7 @@ public class Calc {
         // TODO code application logic here
         System.out.println("simple calc");
         System.out.println("1st change");
+        System.out.println("2nd change");
     }
     
 }
